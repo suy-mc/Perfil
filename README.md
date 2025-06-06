@@ -3,7 +3,7 @@
 
 **Nombre:** Suyay
 
-**Apellid:o** Moreno Coronel
+**Apellido:** Moreno Coronel
 
 **Alumna de:** 3 1 ACPI
 
